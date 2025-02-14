@@ -1,0 +1,1 @@
+This is a Python-based Blackjack game that follows the standard rules of Blackjack. The game includes a shuffling deck, a player who makes decisions, and a dealer who follows the game rules.
